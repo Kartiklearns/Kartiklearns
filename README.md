@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Kartiklearns/Kartiklearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Kartik, a fullstack dev based in India.
 
-Here are some ideas to get you started:
+I am a Law student too. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am doing Fullstack development as to learn something new and replace my addiction for gaming.
+
+If an idea pops into my head, chances are I’ll try and learn how to build it and ship it.
+
+My main tech stack is MERN, I also know basic Python and C
+
+
+Fun Facts:
+- I love learning more about nerdy stuff
+- I don’t like coffee or tea
+- One Piece is my favorite anime
+- Berserk is my favourite manga
+- I fucking love ELDEN RING
+  
+Hobbies: anime, gym, reading
