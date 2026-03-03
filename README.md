@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I’m Kartik, a fullstack dev based in India.
-
-I am a Law student too. 
+I’m Kartik, a law student based in India.
 
 I am doing Fullstack development as to learn something new and replace my addiction for gaming.
 
