@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 I’m Kartik, a law student based in India.
 
